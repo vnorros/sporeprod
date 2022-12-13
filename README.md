@@ -2,6 +2,8 @@
 
 Supplement to the paper by Norros, Halme, Norberg and Ovaskainen: Spore production monitoring reveals contrasting seasonal strategies and a trade-off between spore size and number in wood-inhabiting fungi.
 
+[![DOI](https://zenodo.org/badge/570098966.svg)](https://zenodo.org/badge/latestdoi/570098966)
+
 
 This repository contains the following files:
 
